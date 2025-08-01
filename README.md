@@ -397,8 +397,7 @@ This project is licensed under the MIT License.
 ## 📞 Support
 
 For support and questions:
-- Email: support@agrolink.com
-- GitHub Issues: [Repository Issues]
+- Email: khan.srmap@gmail.com
 
 ---
 
